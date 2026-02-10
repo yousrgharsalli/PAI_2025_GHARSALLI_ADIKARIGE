@@ -85,7 +85,7 @@ Voici une brève description des fichiers source :
 ### 2. Installation des dépendances
 ```bash 
 pip install -r requirements.txt
-
+```
 ### 3. Installation des dépendances
 ```bash
 python main.py
